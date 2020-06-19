@@ -1,4 +1,4 @@
-# Practice4
+# Practice4 - Pandas ile Veri Manüplasyonu
 
 Practice4.ipynb notebooku baslangic seviyesi icin hazirlanmistir, cozum kodlari daha fazla; doldurulmasi gereken bosluklar daha azdir.
 
